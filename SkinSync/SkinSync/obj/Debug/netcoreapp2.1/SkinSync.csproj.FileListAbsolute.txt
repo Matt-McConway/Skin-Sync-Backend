@@ -1,0 +1,13 @@
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\bin\Debug\netcoreapp2.1\SkinSync.deps.json
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\bin\Debug\netcoreapp2.1\SkinSync.runtimeconfig.json
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\bin\Debug\netcoreapp2.1\SkinSync.runtimeconfig.dev.json
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\bin\Debug\netcoreapp2.1\SkinSync.dll
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\bin\Debug\netcoreapp2.1\SkinSync.pdb
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.csproj.CoreCompileInputs.cache
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.RazorAssemblyInfo.cache
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.RazorAssemblyInfo.cs
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.AssemblyInfoInputs.cache
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.AssemblyInfo.cs
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.RazorTargetAssemblyInfo.cache
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.dll
+M:\Code\GitHub\React\Skin-Sync-Backend\SkinSync\SkinSync\obj\Debug\netcoreapp2.1\SkinSync.pdb
